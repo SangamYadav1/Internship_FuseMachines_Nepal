@@ -1,0 +1,2 @@
+my first liine in a+ openingthis is an added line, because I used a+ mode
+ this is a real new line on the next line.
